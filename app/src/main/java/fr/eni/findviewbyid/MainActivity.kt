@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val ratingBar = findViewById<RatingBar>(R.id.rb_une_note)
 
         textView.text = "Hello";
-        editText.setText("Comment allez vous ?")
+        editText.setText("Comment allez vous ??")
         ratingBar.rating = 3F;
     }
 }
